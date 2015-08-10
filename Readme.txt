@@ -1,0 +1,1 @@
+4-plane balance program that takes velometer (a velocity accelerometer) data at different conditions (baseline cut, first effect cut, etc.) and outputs the best possible balance solution.
